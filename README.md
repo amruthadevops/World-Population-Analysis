@@ -1,5 +1,5 @@
 
-# 🌍 World Population Analysis Dashboard
+# 🌍 World Population Analysis
 
  An end-to-end data analytics project exploring global population trends using Python (Jupyter Notebook) and Power BI. This project demonstrates skills in data cleaning, exploratory data analysis (EDA), data visualization, and dashboard design.
 
