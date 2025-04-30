@@ -1,0 +1,12 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Jupyter notebook checkpoints
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore Power BI file
+*.pbix
+
+# Ignore assets folder (if you store temporary images)
+assets/
